@@ -1,4 +1,4 @@
-# Time_Series_Modelling
+# Time_Series_Modelling [Open](https://github.com/draperkm/Time_Series_Modelling/blob/main/Time_Series_Modelling.pdf)
 
 Time series models are used to forecast events based on verified historical data. Common types include ARIMA, smooth-based, and moving average. We used data from.
 
